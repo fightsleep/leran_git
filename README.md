@@ -1,3 +1,3 @@
 ไฟลนี้ใช้เรียนรู้การใช้งาน Git Hub
 
-ทดสอบการพิมพ์ใน Vs Code
+Git for developer
